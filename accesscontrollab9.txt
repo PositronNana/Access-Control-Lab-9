@@ -1,0 +1,10 @@
+#Lab 9- User controlled by request parameter with data leakage in redirect 
+
+Credentials 
+wiener: peter
+
+Analysis 
+1. Login as wiener user 
+2. Get the csrf token 
+3. Access the carlos user account 
+4. Get the API key from the redirect
